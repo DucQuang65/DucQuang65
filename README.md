@@ -4,11 +4,13 @@
 
 # 👋 Hi, I'm Bui Quang Duc (DucQuang65)
 
-[cite_start]I am a **Software Engineering Student** at FPT University (Ho Chi Minh Campus)[cite: 31, 32]. I specialize in building scalable backend systems with AI integration and crafting immersive games.
+I am a **Software Engineering Student** at FPT University (Ho Chi Minh Campus). I specialize in building scalable backend systems with AI integration and crafting immersive games.
 
-- [cite_start]🛠️ **Backend:** Node.js, .NET 9, and AI Model Integration[cite: 15, 16, 24].
-- 🎮 **Game Dev:**
-- [cite_start]🤖 **AI Passion:** Experienced in building automated research tools and video generation APIs[cite: 42, 48].
+<br/>
+
+* 🛠️ **Backend:** Node.js, .NET 9, and AI Model Integration.
+* 🎮 **Game Dev:** Fresher Game Developer focusing on Unity and Godot engines. Skilled in implementing core game logic, designing AI behaviors, and building interactive UI/UX.
+* 🤖 **AI Passion:** Experienced in building automated research tools and video generation API.
 
 ---
 
@@ -34,13 +36,12 @@
 
 ---
 
-### 💖 Support My Journey
-If you appreciate my open-source work or want to support the development of **White Diary**, consider becoming a sponsor!
-
+### 💖 Support My Work
+If you find my projects helpful, consider sponsoring me to help cover asset costs and development tools!<br/>
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/DucQuang65)
 
 ---
 
 ### 📫 Let's Connect
-- [cite_start]**LinkedIn:** [Duc Bui Quang](https://www.linkedin.com/in/đức-bùi-quang-56842438a) 
-- [cite_start]**Email:** [ducquang0565@gmail.com](mailto:ducquang0565@gmail.com) [cite: 10]
+* **LinkedIn:** [Duc Bui Quang](https://www.linkedin.com/in/đức-bùi-quang-56842438a) 
+* **Email:** [ducquang0565@gmail.com](mailto:ducquang0565@gmail.com) 
