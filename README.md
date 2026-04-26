@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9385e83b-7917-4d05-97d6-bccb66ce6b34" width="100%" />
+</p>
+
+
 # Hi there, I'm Bui Quang Duc 👋
 
 I am a **Software Engineering Student** at FPT University (Ho Chi Minh Campus) with a deep passion for building robust backend systems and immersive gaming experiences. I specialize in **Node.js** and **.NET** for backend services, and I am currently exploring the world of **Game Development** as a fresher.
