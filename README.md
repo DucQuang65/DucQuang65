@@ -30,8 +30,8 @@ I am a **Software Engineering Student** at FPT University (Ho Chi Minh Campus). 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DucQuang65&show_icons=true&theme=tokyonight" alt="DucQuang65's GitHub stats" height="170" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DucQuang65&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=DucQuang65&show_icons=true&theme=tokyonight" height="195" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=DucQuang65&theme=tokyonight&langs_count=6" height="195" />
 </p>
 
 ---
